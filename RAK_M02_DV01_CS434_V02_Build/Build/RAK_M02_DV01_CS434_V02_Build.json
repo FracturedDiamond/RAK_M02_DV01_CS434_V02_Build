@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "RAK_M02_DV01_CS434",
+"productVersion": "0.1",
+"dataUrl": "RAK_M02_DV01_CS434_V02_Build.data.unityweb",
+"wasmCodeUrl": "RAK_M02_DV01_CS434_V02_Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "RAK_M02_DV01_CS434_V02_Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.18f1"
+}
